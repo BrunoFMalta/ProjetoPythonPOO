@@ -236,10 +236,9 @@ O sistema já inicia com clientes, técnicos N1 e N2 e um chamado de exemplo car
 
 ## 🗺️ Próximos passos
 
-- [ ] Persistência dos dados em arquivo (JSON ou SQLite)
 - [ ] Cadastro de clientes e técnicos pelo menu
 - [ ] Refinamento visual da interface
-- [ ] Expediente configurável e lista de feriados
+- [ ] Expediente configurável
 - [ ] Segundo relógio de SLA (tempo até assumir o chamado)
 
 ---
