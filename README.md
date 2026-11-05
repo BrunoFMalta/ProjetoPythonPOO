@@ -234,17 +234,6 @@ O menu aparece no terminal:
 
 O sistema já inicia com clientes, técnicos N1 e N2 e um chamado de exemplo carregados.
 
-## 🧪 Testes
-
-```bash
-pip install pytest
-pytest
-```
-
-Os 9 testes cobrem prioridade calculada, transições de status inválidas, escalonamento N1 para N2, fluxo completo, calendário comercial, SLA, polimorfismo do prazo e relatório de carga.
-
----
-
 ## 🗺️ Próximos passos
 
 - [ ] Persistência dos dados em arquivo (JSON ou SQLite)
